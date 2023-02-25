@@ -73,6 +73,7 @@ article {
     display: flex;
     background-color: var(--white);
     border-radius: 1.5rem;
+    box-shadow: 1rem 1rem 1rem hsla(234, 85%, 45%, .07);
 }
 
 .container-1 {
